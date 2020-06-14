@@ -1,0 +1,29 @@
+.navbar-laravel {
+    background-color: #404040;
+}
+table{
+    margin: 10px;
+}
+
+td{
+    padding: 5px;
+}
+
+.money{
+    color:green;
+}
+
+#account a{
+    color: #808080;
+}
+
+#account a:hover, #account p:hover{
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    text-decoration: none;
+}
+
+#userInfo{
+    margin:0px;
+    padding:0px;
+}
